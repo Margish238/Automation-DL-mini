@@ -1,0 +1,12 @@
+My project is about detecting object and providing brief-inforamation about it.
+I found that whenever we see a new thing in our daily life we wonder what is that thing!.
+we dont have any information about that,and the basic requirment to get information of that is name,
+As the things are new to us,we even dont know the name of that thing.
+So my project makes things easier to search any object.
+Anyone can take photo of what they see.
+Uploading that photo will guide user to more detailed inforamtion of it.
+
+I faced a challenge in displaying two functions button in proper manner according to UX.
+I researched about how to solve it and after many try and error I came this UI which almost good.
+
+I integrated the image detection and automation part of the Workshop.
